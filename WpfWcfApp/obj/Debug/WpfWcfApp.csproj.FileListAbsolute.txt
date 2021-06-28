@@ -1,0 +1,14 @@
+D:\NCS\Learning\C#\WpfWcfApp\WpfWcfApp\bin\Debug\WpfWcfApp.exe.config
+D:\NCS\Learning\C#\WpfWcfApp\WpfWcfApp\bin\Debug\WpfWcfApp.exe
+D:\NCS\Learning\C#\WpfWcfApp\WpfWcfApp\bin\Debug\WpfWcfApp.pdb
+D:\NCS\Learning\C#\WpfWcfApp\WpfWcfApp\obj\Debug\MainWindow.g.cs
+D:\NCS\Learning\C#\WpfWcfApp\WpfWcfApp\obj\Debug\App.g.cs
+D:\NCS\Learning\C#\WpfWcfApp\WpfWcfApp\obj\Debug\WpfWcfApp_MarkupCompile.cache
+D:\NCS\Learning\C#\WpfWcfApp\WpfWcfApp\obj\Debug\WpfWcfApp_MarkupCompile.lref
+D:\NCS\Learning\C#\WpfWcfApp\WpfWcfApp\obj\Debug\MainWindow.baml
+D:\NCS\Learning\C#\WpfWcfApp\WpfWcfApp\obj\Debug\WpfWcfApp.g.resources
+D:\NCS\Learning\C#\WpfWcfApp\WpfWcfApp\obj\Debug\WpfWcfApp.Properties.Resources.resources
+D:\NCS\Learning\C#\WpfWcfApp\WpfWcfApp\obj\Debug\WpfWcfApp.csproj.GenerateResource.cache
+D:\NCS\Learning\C#\WpfWcfApp\WpfWcfApp\obj\Debug\WpfWcfApp.csproj.CoreCompileInputs.cache
+D:\NCS\Learning\C#\WpfWcfApp\WpfWcfApp\obj\Debug\WpfWcfApp.exe
+D:\NCS\Learning\C#\WpfWcfApp\WpfWcfApp\obj\Debug\WpfWcfApp.pdb
